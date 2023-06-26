@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/open-rookie-manage/open-rookie-api/open-rookie-api-system/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/open-rookie-manage/open-rookie-api/open-rookie-api-system/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/open-rookie-manage/open-rookie-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/open-rookie-manage/open-rookie-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/open-rookie-manage/open-rookie-auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/open-rookie-manage/open-rookie-auth/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/open-rookie-manage/open-rookie-common/open-rookie-common-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/open-rookie-manage/open-rookie-common/open-rookie-common-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/open-rookie-manage/open-rookie-common/open-rookie-common-datascope/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/open-rookie-manage/open-rookie-common/open-rookie-common-datascope/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/open-rookie-manage/open-rookie-common/open-rookie-common-datasource/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/open-rookie-manage/open-rookie-common/open-rookie-common-datasource/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/open-rookie-manage/open-rookie-common/open-rookie-common-log/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/open-rookie-manage/open-rookie-common/open-rookie-common-log/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/open-rookie-manage/open-rookie-common/open-rookie-common-redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/open-rookie-manage/open-rookie-common/open-rookie-common-redis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/open-rookie-manage/open-rookie-common/open-rookie-common-seata/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/open-rookie-manage/open-rookie-common/open-rookie-common-seata/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/open-rookie-manage/open-rookie-common/open-rookie-common-security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/open-rookie-manage/open-rookie-common/open-rookie-common-security/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/open-rookie-manage/open-rookie-common/open-rookie-common-swagger/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/open-rookie-manage/open-rookie-common/open-rookie-common-swagger/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/open-rookie-manage/open-rookie-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/open-rookie-manage/open-rookie-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/open-rookie-manage/open-rookie-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/open-rookie-manage/open-rookie-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/open-rookie-manage/open-rookie-modules/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/open-rookie-manage/open-rookie-modules/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/open-rookie-manage/open-rookie-ui/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/open-rookie-manage/open-rookie-ui/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/open-rookie-manage/open-rookie-visual/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/open-rookie-manage/open-rookie-visual/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/open-rookie-manage/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/open-rookie-manage/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

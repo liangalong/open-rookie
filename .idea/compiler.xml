@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="open-rookie-common-core" />
+        <module name="open-rookie-common-redis" />
+        <module name="open-rookie-api-system" />
+        <module name="open-rookie-common-datascope" />
+        <module name="open-rookie-visual" />
+        <module name="open-rookie-api" />
+        <module name="open-rookie-common-log" />
+        <module name="open-rookie-auth" />
+        <module name="open-rookie-common-datasource" />
+        <module name="open-rookie-modules" />
+        <module name="open-rookie-common-swagger" />
+        <module name="open-rookie-common-seata" />
+        <module name="open-rookie-gateway" />
+        <module name="open-rookie-common-security" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="open-rookie-admin" target="1.6" />
+      <module name="open-rookie-framework" target="1.6" />
+      <module name="open-rookie-ui" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
