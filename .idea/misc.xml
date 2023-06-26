@@ -10,9 +10,15 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/open-rookie-manage/open-rookie-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/open-rookie-manage/open-rookie-api/pom.xml" />
+        <option value="$PROJECT_DIR$/open-rookie-manage/open-rookie-auth/pom.xml" />
+        <option value="$PROJECT_DIR$/open-rookie-manage/open-rookie-common/pom.xml" />
         <option value="$PROJECT_DIR$/open-rookie-manage/open-rookie-framework/pom.xml" />
+        <option value="$PROJECT_DIR$/open-rookie-manage/open-rookie-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/open-rookie-manage/open-rookie-modules/pom.xml" />
         <option value="$PROJECT_DIR$/open-rookie-manage/open-rookie-system/pom.xml" />
         <option value="$PROJECT_DIR$/open-rookie-manage/open-rookie-ui/pom.xml" />
+        <option value="$PROJECT_DIR$/open-rookie-manage/open-rookie-visual/pom.xml" />
       </set>
     </option>
   </component>

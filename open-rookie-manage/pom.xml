@@ -11,13 +11,7 @@
     <name>open-rookie</name>
     <description>新手村微服务系统</description>
     <modules>
-        <module>open-rookie-auth</module>
-        <module>open-rookie-gateway</module>
-        <module>open-rookie-api</module>
-        <module>open-rookie-modules</module>
-        <module>open-rookie-visual</module>
-        <module>open-rookie-common</module>
-        <module>open-rookie-api/open-rookie-api-system</module>
+
     </modules>
     
 
@@ -152,68 +146,6 @@
                 <version>${transmittable-thread-local.version}</version>
             </dependency>
 
-            <!-- 核心模块 -->
-            <dependency>
-                <groupId>com.or</groupId>
-                <artifactId>open-rookie-common-core</artifactId>
-                <version>${open.rookie.version}</version>
-            </dependency>
-
-            <!-- 接口模块 -->
-            <dependency>
-                <groupId>com.or</groupId>
-                <artifactId>open-rookie-common-swagger</artifactId>
-                <version>${open.rookie.version}</version>
-            </dependency>
-
-            <!-- 安全模块 -->
-            <dependency>
-                <groupId>com.or</groupId>
-                <artifactId>open-rookie-common-security</artifactId>
-                <version>${open.rookie.version}</version>
-            </dependency>
-
-            <!-- 权限范围 -->
-            <dependency>
-                <groupId>com.or</groupId>
-                <artifactId>open-rookie-common-datascope</artifactId>
-                <version>${open.rookie.version}</version>
-            </dependency>
-
-            <!-- 多数据源 -->
-            <dependency>
-                <groupId>com.or</groupId>
-                <artifactId>open-rookie-common-datasource</artifactId>
-                <version>${open.rookie.version}</version>
-            </dependency>
-
-            <!-- 分布式事务 -->
-            <dependency>
-                <groupId>com.or</groupId>
-                <artifactId>open-rookie-common-seata</artifactId>
-                <version>${open.rookie.version}</version>
-            </dependency>
-
-            <!-- 日志记录 -->
-            <dependency>
-                <groupId>com.or</groupId>
-                <artifactId>open-rookie-common-log</artifactId>
-                <version>${open.rookie.version}</version>
-            </dependency>
-
-            <!-- 缓存服务 -->
-            <dependency>
-                <groupId>com.or</groupId>
-                <artifactId>open-rookie-common-redis</artifactId>
-                <version>${open.rookie.version}</version>
-            </dependency>
-
-            <!-- 系统接口 -->
-            <dependency>
-                <groupId>com.or</groupId>
-                <artifactId>open-rookie-api-system</artifactId>
-                <version>${open.rookie.version}</version>
-            </dependency>
 
         </dependencies>
     </dependencyManagement>
