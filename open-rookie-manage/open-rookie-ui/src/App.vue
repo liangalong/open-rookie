@@ -4,18 +4,18 @@
     <!--输入框-->
     <div class="form-wrapper">
       <div class="header">
-        music manage
+        openrookie manage
       </div>
       <div class="input-wrapper">
         <div class="border-wrapper">
-          <input type="text" name="username" placeholder="username" class="border-item" autocomplete="off" />
+          <input type="text" name="username" placeholder="用户名" class="border-item" autocomplete="off" />
         </div>
         <div class="border-wrapper">
-          <input type="password" name="password" placeholder="password" class="border-item" autocomplete="off" />
+          <input type="password" name="password" placeholder="密码" class="border-item" autocomplete="off" />
         </div>
       </div>
       <div class="action">
-        <div class="btn">login</div>
+        <div class="btn">登陆</div>
       </div>
     </div>
   </div>
@@ -24,11 +24,11 @@
 <style scoped>
 .login-wrap {
   height: 100%;
-  font-family: JetBrains Mono Medium;
+  //font-family: JetBrains Mono Medium;
   display: flex;
   align-items: center;
   justify-content: center;
-  /* background-color: #0e92b3; */
+  //background-color: #0e92b3;
   background: url('assets/img/city.png');
   background-size: 100% 100%;
 }
